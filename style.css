@@ -1,0 +1,26 @@
+main {background-color: blueviolet;
+margin-left: 10%;
+margin-right: 0%;
+font-size: 130%;
+border-color: black;
+border-left: 45px;
+border-style: double;
+}
+
+header {font-size: 150%;
+color: black;
+margin-left: 15%;
+margin-right: 10px;
+border-color: aqua;
+border-
+border-style: groove;
+}
+
+footer {background-color: gold;
+margin-left: 10px;
+margin-right: 0;
+font-size: 15px;
+border-color: rgb(red, green, blue);
+border-left: 15px;
+border-style: groove;
+}
